@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Emilia!
 
 <!--
 **EmiliaSzynwald/EmiliaSzynwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**🎓Junior at Hofstra University, studying Computer Science🎓**
+
+**✨My interests lie in AI and software development!✨**
+
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/emilia-szynwald/)!
+
