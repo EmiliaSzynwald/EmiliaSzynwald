@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 **🎓Junior at Hofstra University, studying Computer Science🎓**
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/emilia-szynwald/)!
+My interests are in full stack, AI, and exploring all the fun areas of tech!
+
+I would love to chat anything tech, reach out to me on [LinkedIn](https://www.linkedin.com/in/emilia-szynwald/)!
 
