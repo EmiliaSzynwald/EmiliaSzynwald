@@ -36,6 +36,10 @@ My interests are in full stack, AI, Quantum and exploring all the fun areas of t
 ## 📊 Stats and Activity
 
 <div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=EmiliaSzynwald&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmiliaSzynwald/EmiliaSzynwald/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmiliaSzynwald/EmiliaSzynwald/output/github-snake.svg" />
