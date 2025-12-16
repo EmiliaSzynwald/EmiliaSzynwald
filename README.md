@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 **🎓Junior at Hofstra University, studying Computer Science🎓**
 
-My interests are in full stack, AI, Quantum and exploring all the fun areas of tech! 
+My interests are all around various areas of computer science, such as full stack, AI, Quantum computing.
+
+I love exploring all the fun areas of tech!!
 
 ## 🌱 Tech Background
 **Languages:** Python, Java, C, C++, Rust, F#, JavaScript, HTML/CSS
@@ -47,5 +49,5 @@ My interests are in full stack, AI, Quantum and exploring all the fun areas of t
   </picture>
 </div>
 
-I would love to chat anything tech, reach out to me!
+I would love to chat anything tech or if you're curious about any of my projects, reach out to me!
 
