@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **🎓Junior at Hofstra University, studying Computer Science🎓**
 
-My interests are all around various areas of computer science, such as full stack, AI, Quantum computing.
+My interests are all around various areas of computer science, such as AI and Quantum computing.
 
 I love exploring all the fun areas of tech!!
 
