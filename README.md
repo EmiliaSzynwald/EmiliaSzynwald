@@ -31,7 +31,7 @@ I love exploring all the fun areas of tech!!
 
 **ML / Data:** PyTorch, JAX, TensorFlow, HuggingFace, scikit-learn, spaCy, NLTK, NumPy, Pandas, Dask, Zarr, Keras, Plotly, Dash
 
-**AI / NLP:** RAG, CNNs, regression, decision trees, random forests, k-NN, gradient boosting, Naive Bayes, clustering, text mining pipelines
+**AI / NLP:** RAG, CNNs, regression, decision trees, random forests, k-NN, gradient boosting, Naive Bayes, clustering, text mining pipelines...
 
 **Dev Tools & Platforms:** Git, GitHub, VS Code, Vim, Jupyter Notebook, Google Colab, Linux, VirtualBox, HPC clusters, ERPNext, n8n, JIRA
 
