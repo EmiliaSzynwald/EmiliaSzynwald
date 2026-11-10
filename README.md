@@ -1,7 +1,5 @@
-
-[![](https://img.shields.io/badge/-@EmiliaSzynwald-%23181717?style=flat-square&logo=github)](https://github.com/EmiliaSzynwald)
 [![](https://img.shields.io/badge/-Linkedin%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilia-szynwald/)](https://www.linkedin.com/in/emilia-szynwald/)
-![Contact Me](https://img.shields.io/badge/-emiliaszynwald@gmail.com-%23181717?style=flat-square&logo=email)
+[![Email](https://img.shields.io/badge/Email-emiliaszynwald%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:emiliaszynwald@gmail.com)
 
 ## Hi everyone, I'm Emilia!
 
@@ -22,14 +20,14 @@ Here are some ideas to get you started:
 
 **🎓Senior at Hofstra University, studying Computer Science🎓**
 
-My interests are all around various areas of computer science, such as AI and ML.
+I love exploring all the fun areas of computer science, specifically AI and ML.
 
-I love exploring all the fun areas of tech!!
+I build things, break things, and then figure out *why* they broke.
 
-## 🌱 Tech Background
+## 🌱 Tech Background 
 **Languages:** Python, Java, C, C++, Rust, F#, JavaScript, HTML/CSS
 
-**ML / Data:** PyTorch, JAX, TensorFlow, HuggingFace, scikit-learn, spaCy, NLTK, NumPy, Pandas, Dask, Zarr, Keras, Plotly, Dash
+**ML / Data:** PyTorch, JAX, TensorFlow, Hugging Face, scikit-learn, spaCy, NLTK, NumPy, Pandas, Dask, Zarr, Keras, Plotly, Dash
 
 **AI / NLP:** RAG, CNNs, regression, decision trees, random forests, k-NN, gradient boosting, Naive Bayes, clustering, text mining pipelines...
 
@@ -49,5 +47,5 @@ I love exploring all the fun areas of tech!!
   </picture>
 </div>
 
-I would love to chat anything tech or if you're curious about any of my projects, reach out to me!
+I'd love to chat anything tech or if you're curious about any of my projects, reach out to me! (Best way to get a response: send a cat gif 🐱)
 
