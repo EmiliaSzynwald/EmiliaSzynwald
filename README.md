@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**🎓Junior at Hofstra University, studying Computer Science🎓**
+**🎓Senior at Hofstra University, studying Computer Science🎓**
 
-My interests are all around various areas of computer science, such as AI and Quantum computing.
+My interests are all around various areas of computer science, such as AI and ML.
 
 I love exploring all the fun areas of tech!!
 
